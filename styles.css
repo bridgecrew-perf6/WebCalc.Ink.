@@ -2,7 +2,7 @@
 
 body {
     background: black;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .container {
     background: whitesmoke;
@@ -30,7 +30,8 @@ body {
 .container .result p {
     font-size: 40pt;
     overflow-y: auto;
-    text-align: right; 
+    text-align: right;
+    
 }
 
 .container .buttons {
