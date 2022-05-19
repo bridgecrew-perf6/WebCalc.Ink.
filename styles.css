@@ -40,7 +40,7 @@ body {
 }
 
 .container .buttons .button, .container .buttons .num-button  {
-    cursor: grab;
+    cursor: auto;
     text-align: center;
     width: 60px;
     font-size:18px;
